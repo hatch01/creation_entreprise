@@ -50,6 +50,37 @@ Freemium :
 
 ### Concurrence
 * **Solutions Actuelles :** Les designers utilisent souvent des outils de prise de notes (Notion, Evernote), de sauvegarde de liens (Pocket), ou les fonctions natives des plateformes (tableaux Pinterest, collections Instagram).
+
+Voici leur avantage et incovenients :
+
+--------------------------------------------------------------------------------------------------------------------------------
+      Concurrent       Avantages                                              Inconvénients par rapport à All-In
+---------------------- ------------------------------------------------------ --------------------------------------------------
+      **Notion**       - Très flexible et personnalisable.                    - Ne centralise pas automatiquement les inspirations depuis diverses plateformes.
+                       - Large communauté et nombreuses intégrations.         - Pas de visualisation en graphe pour explorer les connexions entre les inspirations.
+                       - Bon pour la gestion de projets et la prise de notes. - Moins spécialisé pour les designers et la veille créative.
+
+      **Evernote**     - Capture facile de notes et de contenus web.          - Interface moins visuelle et intuitive pour les designers.
+                       - Organisation par carnets et tags.                    - Pas de fonctionnalités avancées de visualisation ou de suggestion basée sur l'IA.
+                       - Recherche puissante dans les notes.                  - Moins adapté à la collaboration en temps réel.
+
+      **Pocket**       - Sauvegarde rapide de liens et d'articles.            - Limité à la sauvegarde de liens et d'articles, pas d'images ou de vidéos.
+                       - Interface simple et épurée.                          - Pas de fonctionnalités de tagging automatique ou de suggestion.
+                       - Synchronisation multi-appareils.                     - Ne permet pas la visualisation en graphe ou l'exploration des connexions.
+
+      **Pinterest**    - Très visuel et inspirant.                            - Pas de centralisation automatique depuis d'autres plateformes.
+                       - Large base d'utilisateurs et de contenus.            - Pas de fonctionnalités avancées de recherche ou de suggestion basée sur l'IA.
+                       - Tableaux pour organiser les inspirations.            - Moins adapté à la gestion de projets ou à la collaboration.
+
+      **Instagram**    - Plateforme très populaire pour les designers.        - Pas de centralisation ou d'organisation automatique des inspirations.
+                       - Collections pour sauvegarder des posts.              - Pas de visualisation en graphe ou de suggestion basée sur l'IA.
+                       - Forte communauté et engagement.                      - Moins adapté à la gestion de projets ou à la collaboration.
+
+      **Behance**      - Plateforme dédiée aux créatifs.                      - Pas de fonctionnalités de centralisation ou d'organisation des inspirations.
+                       - Portfolios et projets inspirants.                    - Pas de visualisation en graphe ou de suggestion basée sur l'IA.
+                       - Communauté active et feedback.                       - Moins adapté à la gestion de projets ou à la collaboration en temps réel.
+-----------------------------------------------------------------------------------------------------------------
+
 * **Positionnement d'All-In :** Ces outils sont des concurrents *indirects*. Ils permettent de stocker mais ne résolvent pas le problème central de la *restitution connectée et visuelle* de l'inspiration multi-sources, spécifique au besoin des créatifs. All-In vise un segment "orphelin" avec une solution dédiée et spécialisée.
 
 ### Cible
@@ -122,7 +153,7 @@ Allocation nécessaire pour :
 * Frais Généraux & Administratifs: frais juridiques, comptables, salaires administratifs.
 
 
-## Annexes 
+## Annexes
 
 # **Annexes**
 
@@ -163,7 +194,7 @@ Cette section détaillerait les résultats du sondage initial et de la démarche
     * Temps Perdu Estimé : Jusqu'à 1 jour par semaine pour certains.
     * Validation Initiale : 30 designers contactés -> 7 précommandes (Offre Standard ou Premium) enregistrées en 48h, validant l'appétence et la volonté de payer.
     * Communauté de Testeurs : Objectif de 350 "précurseurs" pour la phase de co-conception.
-2.	**Enquête**: 
+2.	**Enquête**:
 
 ![](business_plan_20250401162655630.png)
 3.  **Précommandes :** 7 précommandes à 5 euro pour rejoindre les early adopters.
