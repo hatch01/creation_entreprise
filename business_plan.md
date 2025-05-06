@@ -11,26 +11,38 @@ logo-width: 300px
 ...
 
 
-## Executive Summary
+## Présentation générale
 
-Apolline est une plateforme SaaS innovante conçue pour résoudre un problème majeur chez les designers : la dispersion et la perte d'inspiration collectée sur de multiples plateformes (Instagram, Pinterest, Behance, etc.). En France, 70% des 55 000 designers perdent jusqu'à un jour par semaine à retrouver ces éléments sauvegardés. Apolline centralise, organise intelligemment (via tagging automatique et potentiellement IA) et permet de redécouvrir ces inspirations grâce à une interface visuelle unique en forme de graphe/nœuds. Le modèle économique est Freemium, avec des offres adaptées aux indépendants, PME et grandes entreprises. Validé par une forte traction initiale (7 précommandes en 48h sur 30 contacts), le projet vise 10 000 utilisateurs et 60 000€ de CA en Année 1, avec une expansion rapide vers d'autres métiers créatifs et à l'international, ciblant 65 000 utilisateurs et ~200 000€ de CA en Année 3. Le projet est porté par une équipe pluridisciplinaire expérimentée.
+Apolline est une plateforme SaaS innovante conçue pour résoudre un problème majeur chez les designers : la dispersion et la perte d'inspiration collectée sur de multiples plateformes (Instagram, Pinterest, Behance, etc.).
+En France, 70% des 55 000 designers perdent jusqu'à un jour par semaine à retrouver ces éléments sauvegardés.
+Apolline centralise, organise intelligemment (via tagging automatique et potentiellement IA) et permet de redécouvrir ces inspirations grâce à une interface visuelle unique en forme de graphe/nœuds.
+Le modèle économique est Freemium, avec des offres adaptées aux indépendants, PME et grandes entreprises.
+Validé par une forte traction initiale (7 précommandes en 48h sur 30 contacts), le projet vise 10 000 utilisateurs et 60 000€ de CA en Année 1, avec une expansion rapide vers d'autres métiers créatifs et à l'international, ciblant 65 000 utilisateurs et ~200 000€ de CA en Année 3.
+Le projet est porté par une équipe pluridisciplinaire expérimentée.
 
 ## Origine de l’Opportunité
 
 ### Public Ciblé
 
-Notre solution s'adresse principalement aux designers graphiques, UI/UX et autres professionnels créatifs. Le marché français compte environ 55 000 professionnels dans ce domaine, un chiffre qui s'est multiplié par 5 depuis 2002. Le besoin auquel nous répondons est crucial : 70% de ces designers luttent quotidiennement avec la gestion de leur veille et de leurs sources d'inspiration, ce qui entraîne une perte de temps considérable, estimée à environ 1 jour par semaine. Notre marché secondaire inclut également d'autres professions créatives comme les architectes, les community managers, les vidéastes, et d'autres métiers similaires confrontés aux mêmes défis.
+Notre solution s'adresse principalement aux designers graphiques, UI/UX et autres professionnels créatifs.
+Le marché français compte environ 55 000 professionnels dans ce domaine, un chiffre qui s'est multiplié par 5 depuis 2002.
+Le besoin auquel nous répondons est crucial : 70% de ces designers luttent quotidiennement avec la gestion de leur veille et de leurs sources d'inspiration, ce qui entraîne une perte de temps considérable, estimée à environ 1 jour par semaine.
+Notre marché secondaire inclut également d'autres professions créatives comme les architectes, les community managers, les vidéastes, et d'autres métiers similaires confrontés aux mêmes défis.
 
 ### Nouveauté
-Apolline se distingue par sa capacité à non seulement centraliser le contenu de diverses sources, mais surtout à l'organiser intelligemment et à le restituer de manière connectée et visuelle (vue en graphe), facilitant la redécouverte et l'émergence de nouvelles idées. Contrairement aux outils existants, elle est spécifiquement conçue pour le flux de travail de veille créative.
+Apolline se distingue par sa capacité à non seulement centraliser le contenu de diverses sources, mais surtout à l'organiser intelligemment et à le restituer de manière connectée et visuelle (vue en graphe), facilitant la redécouverte et l'émergence de nouvelles idées.
+Contrairement aux outils existants, elle est spécifiquement conçue pour le flux de travail de veille créative.
 
 ### Équipe Fondatrice
-Le projet est porté par une "équipe de choc" combinant des compétences clés : design, développement logiciel, marketing digital. Cette complémentarité est un atout majeur pour le développement et la commercialisation d'Apolline.
+Le projet est porté par une "équipe de choc" combinant des compétences clés : design, développement logiciel, marketing digital.
+Cette complémentarité est un atout majeur pour le développement et la commercialisation d'Apolline.
 
 ## Description du Projet
 
 ### Métier de l’Entreprise
-Apolline se positionne comme une entreprise innovante spécialisée dans le développement et l'exploitation d'une plateforme SaaS (Software as a Service) dédiée à la gestion et à la valorisation de l'inspiration créative. Notre mission consiste à offrir aux professionnels du design un outil performant qui transforme leur processus de veille et d'idéation en une expérience fluide et productive. Nous permettons à nos utilisateurs de centraliser, organiser et redécouvrir leurs sources d'inspiration grâce à des fonctionnalités avancées et une interface visuelle unique.
+Apolline se positionne comme une entreprise innovante spécialisée dans le développement et l'exploitation d'une plateforme SaaS (Software as a Service) dédiée à la gestion et à la valorisation de l'inspiration créative.
+Notre mission consiste à offrir aux professionnels du design un outil performant qui transforme leur processus de veille et d'idéation en une expérience fluide et productive.
+Nous permettons à nos utilisateurs de centraliser, organiser et redécouvrir leurs sources d'inspiration grâce à des fonctionnalités avancées et une interface visuelle unique.
 
 ### Fonctionnalités Clés
 Voici les fonctionnalités clés qu'offre notre plateforme Apolline pour transformer l'expérience des designers :
