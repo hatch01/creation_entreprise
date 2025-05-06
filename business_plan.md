@@ -143,6 +143,17 @@ Voici leur avantage et incovenients :
 * **RH :** Équipe fondatrice en place. Prévoir recrutements pour le support client, le développement continu, le marketing et la vente (notamment pour l'offre entreprise) au fur et à mesure de la croissance.
 * **Investissements :** Coûts initiaux de développement, budget marketing de lancement, infrastructure, frais opérationnels avant rentabilité.
 
+#### Structure Juridique
+
+Après analyse des différentes options et considérant nos objectifs de croissance, notre besoin potentiel de lever des fonds et la nature de notre activité, nous avons opté pour le statut de Société par Actions Simplifiée (SAS). Cette forme juridique offre une grande souplesse dans son organisation et son fonctionnement, ce qui est particulièrement adapté à une jeune entreprise innovante comme Apolline. Elle permet également de faciliter l'entrée d'investisseurs au capital si le besoin s'en fait sentir à l'avenir.
+
+#### Implantation et Cadre de Travail
+
+En tant qu'entreprise développant une solution SaaS, notre infrastructure principale repose sur des services cloud pour l'hébergement de la plateforme et des données utilisateurs. Le siège social d'All-In sera établi à Lyon.
+
+Pour la phase de démarrage, l'équipe fondatrice opérera principalement en travail à distance (full remote), une organisation qui favorise la flexibilité, réduit les coûts initiaux liés aux locaux et permet d'attirer des talents sans contrainte géographique. Des rencontres physiques régulières seront organisées pour maintenir la cohésion d'équipe et pour les sessions de travail stratégiques. Si la croissance de l'entreprise le justifie et que les besoins évoluent, la location de bureaux ou l'accès à des espaces de coworking pourraient être envisagés ultérieurement, notamment pour faciliter certaines fonctions ou accueillir une équipe plus étoffée.
+
+
 ### Analyse des Risques
 * **Risque Marché :** Adoption plus lente que prévue, difficulté à convertir les utilisateurs gratuits, réaction rapide des concurrents indirects, évolution des besoins des designers.
 * **Risque Technique :** Complexité du développement (notamment l'interface graphe et l'intégration multi-plateformes), scalabilité de l'infrastructure, sécurité des données.
