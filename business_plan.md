@@ -41,10 +41,36 @@ Développement et exploitation d'une plateforme SaaS (Software as a Service) de 
 * Potentiel d'intégration d'IA pour des suggestions et analyses plus poussées et une recherche plus intelligente.
 
 ### Modèle Économique
-Freemium :
-* **Offre Gratuite :** Fonctionnalités de base (capture, organisation limitée, stockage restreint) pour attirer une large base d'utilisateurs.
-* **Offre Standard (15€/mois) :** Pour indépendants et PME. Fonctionnalités complètes pour un usage individuel.
-* **Offre Premium (25€/mois/utilisateur) :** Pour agences et entreprises. Inclut des fonctionnalités collaboratives avancées (espaces partagés, gestion d'équipe).
+
+Notre modèle économique ce repose sur un système Freemium, avec trois niveaux d'abonnement :
+
+#### Offre Free (0 €/mois)
+
+Pour découvrir le service avec des fonctionnalités de base.
+
+* Enregistrement illimité
+* Partage en lecture seule
+* 3 requêtes IA par mois
+* Classification manuelle
+
+#### Offre Standard (15 €/mois)
+
+Pour les indépendants et petites équipes souhaitant plus d’automatisation.
+
+* Enregistrement illimité
+* Partage et édition collaboratifs
+* 10 requêtes IA par mois
+* Classification automatique
+
+
+### Offre Illimitée (25 €/mois/utilisateur)
+
+Pour les équipes ou agences avec des besoins avancés.
+
+* Enregistrement illimité
+* Espace collaboratif illimité
+* Requêtes IA illimitées
+* Classification automatique
 
 ## Étude du Marché
 
