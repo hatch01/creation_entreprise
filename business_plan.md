@@ -18,7 +18,8 @@ Apolline est une plateforme SaaS innovante conçue pour résoudre un problème m
 ## Origine de l’Opportunité
 
 ### Public Ciblé
-Principalement les designers graphiques, UI/UX, etc. (marché français de 55 000 professionnels, multiplié par 5 depuis 2002). Le besoin est crucial : 70% d'entre eux luttent avec la gestion de leur veille et inspiration, entraînant une perte de temps considérable (estimée à 1 jour/semaine). Le marché secondaire inclut architectes, community managers, vidéastes, etc.
+
+Notre solution s'adresse principalement aux designers graphiques, UI/UX et autres professionnels créatifs. Le marché français compte environ 55 000 professionnels dans ce domaine, un chiffre qui s'est multiplié par 5 depuis 2002. Le besoin auquel nous répondons est crucial : 70% de ces designers luttent quotidiennement avec la gestion de leur veille et de leurs sources d'inspiration, ce qui entraîne une perte de temps considérable, estimée à environ 1 jour par semaine. Notre marché secondaire inclut également d'autres professions créatives comme les architectes, les community managers, les vidéastes, et d'autres métiers similaires confrontés aux mêmes défis.
 
 ### Nouveauté
 Apolline se distingue par sa capacité à non seulement centraliser le contenu de diverses sources, mais surtout à l'organiser intelligemment et à le restituer de manière connectée et visuelle (vue en graphe), facilitant la redécouverte et l'émergence de nouvelles idées. Contrairement aux outils existants, elle est spécifiquement conçue pour le flux de travail de veille créative.
@@ -29,9 +30,11 @@ Le projet est porté par une "équipe de choc" combinant des compétences clés 
 ## Description du Projet
 
 ### Métier de l’Entreprise
-Développement et exploitation d'une plateforme SaaS (Software as a Service) de gestion et de valorisation de l'inspiration créative.
+Apolline se positionne comme une entreprise innovante spécialisée dans le développement et l'exploitation d'une plateforme SaaS (Software as a Service) dédiée à la gestion et à la valorisation de l'inspiration créative. Notre mission consiste à offrir aux professionnels du design un outil performant qui transforme leur processus de veille et d'idéation en une expérience fluide et productive. Nous permettons à nos utilisateurs de centraliser, organiser et redécouvrir leurs sources d'inspiration grâce à des fonctionnalités avancées et une interface visuelle unique.
 
 ### Fonctionnalités Clés
+Voici les fonctionnalités clés qu'offre notre plateforme Apolline pour transformer l'expérience des designers :
+
 * Capture facile depuis diverses plateformes (via "Partager vers Apolline" ou extension navigateur).
 * Centralisation de contenus variés (images, liens, vidéos, articles).
 * Organisation automatique : tagging intelligent, catégorisation.
@@ -75,6 +78,8 @@ Pour les équipes ou agences avec des besoins avancés.
 ## Étude du Marché
 
 ### Concurrence
+Notre analyse de marché montre que l'écosystème d'outils utilisés par les designers présente d'importantes lacunes qu'Apolline vient combler.
+
 * **Solutions Actuelles :** Les designers utilisent souvent des outils de prise de notes (Notion, Evernote), de sauvegarde de liens (Pocket), ou les fonctions natives des plateformes (tableaux Pinterest, collections Instagram).
 
 Voici leur avantage et incovenients :
@@ -107,17 +112,20 @@ Voici leur avantage et incovenients :
                        - Communauté active et feedback.                       - Moins adapté à la gestion de projets ou à la collaboration en temps réel.
 -----------------------------------------------------------------------------------------------------------------
 
-* **Positionnement d'Apolline :** Ces outils sont des concurrents *indirects*. Ils permettent de stocker mais ne résolvent pas le problème central de la *restitution connectée et visuelle* de l'inspiration multi-sources, spécifique au besoin des créatifs. Apolline vise un segment "orphelin" avec une solution dédiée et spécialisée.
+* **Positionnement :** Ces outils sont des concurrents *indirects*. Ils permettent de stocker mais ne résolvent pas le problème central de la *restitution connectée et visuelle* de l'inspiration multi-sources, spécifique au besoin des créatifs. Apolline vise un segment "orphelin" avec une solution dédiée et spécialisée.
 
 ### Cible
-* **Profil :** Designers professionnels (freelances, agences, entreprises). Marché en croissance. Forte sensibilité à l'efficacité et aux outils améliorant le processus créatif.
-* **Besoin Identifié :** Perte de temps, frustration liée à la dispersion des inspirations, sous-exploitation de la veille effectuée. 73% des entreprises investissent dans le design, soulignant l'importance de l'efficacité des designers.
-* **Validation :** L'étude initiale (30 contacts -> 7 précommandes immédiates) confirme l'existence du besoin et la volonté de payer pour une solution efficace. L'approche de co-conception avec 350 testeurs permettra d'affiner le produit et de construire une communauté.
+
+* **Profil :** Notre cible principale se compose de designers professionnels, qu'ils soient freelances, travaillant en agences ou intégrés dans des entreprises. Ce marché connaît une croissance soutenue depuis plusieurs années. Les designers démontrent une forte sensibilité à l'efficacité opérationnelle et sont particulièrement réceptifs aux outils innovants capables d'améliorer leur processus créatif au quotidien.
+
+* **Besoin Identifié :** Nous avons clairement identifié une problématique récurrente chez ces professionnels : ils souffrent d'une perte de temps considérable et d'une frustration croissante liée à la dispersion de leurs sources d'inspiration sur différentes plateformes. Cette situation entraîne une sous-exploitation de la veille créative qu'ils effectuent régulièrement. Le fait que 73% des entreprises investissent aujourd'hui dans le design souligne l'importance cruciale de l'efficacité des designers et la valeur économique de notre solution.
+
+* **Validation :** Notre étude initiale, menée auprès de 30 contacts qualifiés et ayant généré 7 précommandes immédiates, confirme de façon tangible l'existence du besoin et la volonté réelle des designers de payer pour une solution efficace. Notre approche de co-conception, qui impliquera 350 testeurs dans le développement du produit, nous permettra non seulement d'affiner notre offre mais également de construire une communauté engagée autour d'Apolline dès son lancement.
 
 ### Autres Parties Prenantes
-* **Fournisseurs :** Principalement fournisseurs de services Cloud (AWS, Google Cloud, Azure) pour l'hébergement et le stockage ainsi que principal fournisseurs de services ia (mistral AI, openAI).
-* **Financeurs :** Investissement par les créateurs à hauteur de 200k.
-* **Communauté :** Les 350 précurseurs/testeurs jouent un rôle clé dans la validation et l'amélioration du produit.
+* **Fournisseurs :** Nous collaborerons principalement avec des fournisseurs de services Cloud comme AWS, Google Cloud et Azure pour assurer l'hébergement et le stockage de notre plateforme. Nous établirons également des partenariats avec les principaux fournisseurs de services IA tels que Mistral AI et OpenAI pour optimiser nos fonctionnalités intelligentes.
+* **Financeurs :** Le projet bénéficiera d'un investissement initial réalisé par les créateurs qui s'élèvera à 200 000 euros pour soutenir les premières phases de développement et de commercialisation.
+* **Communauté :** Notre groupe de 350 précurseurs et testeurs constituera un pilier essentiel dans notre stratégie de développement, car ils joueront un rôle déterminant dans la validation du concept et l'amélioration continue du produit avant son lancement officiel.
 
 ## Stratégie de Lancement
 
@@ -125,6 +133,17 @@ Voici leur avantage et incovenients :
 * **Produit :** Plateforme SaaS web (et potentiellement application mobile future).
 * **Adéquation Cible :** Répond directement au besoin de centralisation et de redécouverte efficace de l'inspiration. L'interface visuelle est un atout pour les profils créatifs. Le modèle Freemium permet une adoption large tout en monétisant les utilisateurs professionnels et les équipes.
 * **Stratégie de Revenus :** Conversion des utilisateurs gratuits en payants (Standard/Premium), vente directe aux entreprises pour l'offre Premium.
+
+### Stratégie de Présence en Ligne
+
+Notre stratégie de lancement digital s'appuiera sur un site vitrine attractif et efficace, conçu pour présenter notre solution de manière claire et engageante. Ce site sera notre principal point de contact avec nos utilisateurs potentiels et jouera un rôle crucial dans notre stratégie d'acquisition.
+
+[https://allin.framer.website/](https://allin.framer.website/)
+
+![](website.png)
+
+Une stratégie SEO robuste sera mise en place pour assurer la visibilité du site auprès de notre cible, avec un contenu optimisé autour des problématiques de gestion d'inspiration et de veille créative. Nous compléterons cette présence par des campagnes publicitaires ciblées sur les plateformes où nos utilisateurs sont actifs, notamment LinkedIn, Instagram et les réseaux spécialisés pour designers.
+
 
 ### Politique Marketing
 * **Positionnement :** La solution incontournable pour les designers qui veulent transformer leur veille passive en inspiration active et organisée.
@@ -238,17 +257,8 @@ Cette section détaillerait les résultats du sondage initial et de la démarche
 
 ## Annexe 4 : Prévisions Financières Détaillées
 
-Cette annexe contiendrait les tableaux financiers prévisionnels complets sur une période de 3 à 5 ans :
-
-1.  **Compte de Résultat Prévisionnel :** Détaillant les revenus (par offre : Gratuit, Standard, Premium), les coûts directs (hébergement, support...), la marge brute, les frais opérationnels (R&D, Marketing & Ventes, Frais Généraux & Administratifs), l'EBE (Excédent Brut d'Exploitation), l'amortissement, le Résultat d'Exploitation (Rex), les charges financières, l'impôt sur les sociétés, et le Résultat Net.
-2.  **Bilan Prévisionnel :** Présentant l'évolution des actifs (immobilisations, créances clients, trésorerie) et des passifs (capital social, réserves, dettes fournisseurs, dettes financières éventuelles).
-3.  **Plan de Trésorerie Prévisionnel (Mensuel pour la 1ère année) :** Suivi détaillé des encaissements et décaissements pour anticiper les besoins et excédents de trésorerie. Essentiel pour piloter l'activité.
-4.  **Hypothèses Clés (Crucial) :** Liste exhaustive et justification des hypothèses sous-jacentes aux prévisions :
-    * Taux de croissance du nombre d'utilisateurs (total, et par offre).
-    * Taux de conversion du gratuit vers le payant.
-    * Revenu Moyen Par Utilisateur Payant (ARPU).
-    * Coût d'Acquisition Client (CAC).
-    * Coûts d'hébergement par utilisateur.
-    * Masse salariale prévisionnelle (incluant les salaires des fondateurs à partir de l'An 3).
-    * Budgets marketing et R&D.
-    * **Justification de la trajectoire du CA (notamment la baisse en An 3)** : Cette section devrait expliquer précisément pourquoi le CA baisse malgré la croissance utilisateurs (ex: changement de stratégie tarifaire, impact d'une offre gratuite très large, etc.).
+![](revenu.png)
+![](synthese.png)
+![](personel.png)
+![](charge.png)
+![](financement.png)
