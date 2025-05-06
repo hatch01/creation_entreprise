@@ -3,7 +3,7 @@ author: Guillaume Calderon, Thibaut Laracine, Eymeric Dechelette
 titlepage: true
 toc: true
 toc-own-page: true
-title: "Business Plan : All-In"
+title: "Business Plan : Apolline"
 date: 1er Avril 2025
 titlepage-logo: "logo.png"
 logo-width: 300px
@@ -13,7 +13,7 @@ logo-width: 300px
 
 ## Executive Summary
 
-All-In est une plateforme SaaS innovante conçue pour résoudre un problème majeur chez les designers : la dispersion et la perte d'inspiration collectée sur de multiples plateformes (Instagram, Pinterest, Behance, etc.). En France, 70% des 55 000 designers perdent jusqu'à un jour par semaine à retrouver ces éléments sauvegardés. All-In centralise, organise intelligemment (via tagging automatique et potentiellement IA) et permet de redécouvrir ces inspirations grâce à une interface visuelle unique en forme de graphe/nœuds. Le modèle économique est Freemium, avec des offres adaptées aux indépendants, PME et grandes entreprises. Validé par une forte traction initiale (7 précommandes en 48h sur 30 contacts), le projet vise 10 000 utilisateurs et 60 000€ de CA en Année 1, avec une expansion rapide vers d'autres métiers créatifs et à l'international, ciblant 65 000 utilisateurs et ~200 000€ de CA en Année 3. Le projet est porté par une équipe pluridisciplinaire expérimentée.
+Apolline est une plateforme SaaS innovante conçue pour résoudre un problème majeur chez les designers : la dispersion et la perte d'inspiration collectée sur de multiples plateformes (Instagram, Pinterest, Behance, etc.). En France, 70% des 55 000 designers perdent jusqu'à un jour par semaine à retrouver ces éléments sauvegardés. Apolline centralise, organise intelligemment (via tagging automatique et potentiellement IA) et permet de redécouvrir ces inspirations grâce à une interface visuelle unique en forme de graphe/nœuds. Le modèle économique est Freemium, avec des offres adaptées aux indépendants, PME et grandes entreprises. Validé par une forte traction initiale (7 précommandes en 48h sur 30 contacts), le projet vise 10 000 utilisateurs et 60 000€ de CA en Année 1, avec une expansion rapide vers d'autres métiers créatifs et à l'international, ciblant 65 000 utilisateurs et ~200 000€ de CA en Année 3. Le projet est porté par une équipe pluridisciplinaire expérimentée.
 
 ## Origine de l’Opportunité
 
@@ -21,10 +21,10 @@ All-In est une plateforme SaaS innovante conçue pour résoudre un problème maj
 Principalement les designers graphiques, UI/UX, etc. (marché français de 55 000 professionnels, multiplié par 5 depuis 2002). Le besoin est crucial : 70% d'entre eux luttent avec la gestion de leur veille et inspiration, entraînant une perte de temps considérable (estimée à 1 jour/semaine). Le marché secondaire inclut architectes, community managers, vidéastes, etc.
 
 ### Nouveauté
-All-In se distingue par sa capacité à non seulement centraliser le contenu de diverses sources, mais surtout à l'organiser intelligemment et à le restituer de manière connectée et visuelle (vue en graphe), facilitant la redécouverte et l'émergence de nouvelles idées. Contrairement aux outils existants, elle est spécifiquement conçue pour le flux de travail de veille créative.
+Apolline se distingue par sa capacité à non seulement centraliser le contenu de diverses sources, mais surtout à l'organiser intelligemment et à le restituer de manière connectée et visuelle (vue en graphe), facilitant la redécouverte et l'émergence de nouvelles idées. Contrairement aux outils existants, elle est spécifiquement conçue pour le flux de travail de veille créative.
 
 ### Équipe Fondatrice
-Le projet est porté par une "équipe de choc" combinant des compétences clés : design, développement logiciel, marketing digital. Cette complémentarité est un atout majeur pour le développement et la commercialisation d'All-In.
+Le projet est porté par une "équipe de choc" combinant des compétences clés : design, développement logiciel, marketing digital. Cette complémentarité est un atout majeur pour le développement et la commercialisation d'Apolline.
 
 ## Description du Projet
 
@@ -32,7 +32,7 @@ Le projet est porté par une "équipe de choc" combinant des compétences clés 
 Développement et exploitation d'une plateforme SaaS (Software as a Service) de gestion et de valorisation de l'inspiration créative.
 
 ### Fonctionnalités Clés
-* Capture facile depuis diverses plateformes (via "Partager vers All-In" ou extension navigateur).
+* Capture facile depuis diverses plateformes (via "Partager vers Apolline" ou extension navigateur).
 * Centralisation de contenus variés (images, liens, vidéos, articles).
 * Organisation automatique : tagging intelligent, catégorisation.
 * Visualisation en graphe : exploration des connexions entre les inspirations.
@@ -54,7 +54,7 @@ Freemium :
 Voici leur avantage et incovenients :
 
 --------------------------------------------------------------------------------------------------------------------------------
-      Concurrent       Avantages                                              Inconvénients par rapport à All-In
+      Concurrent       Avantages                                              Inconvénients par rapport à Apolline
 ---------------------- ------------------------------------------------------ --------------------------------------------------
       **Notion**       - Très flexible et personnalisable.                    - Ne centralise pas automatiquement les inspirations depuis diverses plateformes.
                        - Large communauté et nombreuses intégrations.         - Pas de visualisation en graphe pour explorer les connexions entre les inspirations.
@@ -81,7 +81,7 @@ Voici leur avantage et incovenients :
                        - Communauté active et feedback.                       - Moins adapté à la gestion de projets ou à la collaboration en temps réel.
 -----------------------------------------------------------------------------------------------------------------
 
-* **Positionnement d'All-In :** Ces outils sont des concurrents *indirects*. Ils permettent de stocker mais ne résolvent pas le problème central de la *restitution connectée et visuelle* de l'inspiration multi-sources, spécifique au besoin des créatifs. All-In vise un segment "orphelin" avec une solution dédiée et spécialisée.
+* **Positionnement d'Apolline :** Ces outils sont des concurrents *indirects*. Ils permettent de stocker mais ne résolvent pas le problème central de la *restitution connectée et visuelle* de l'inspiration multi-sources, spécifique au besoin des créatifs. Apolline vise un segment "orphelin" avec une solution dédiée et spécialisée.
 
 ### Cible
 * **Profil :** Designers professionnels (freelances, agences, entreprises). Marché en croissance. Forte sensibilité à l'efficacité et aux outils améliorant le processus créatif.
@@ -106,7 +106,7 @@ Voici leur avantage et incovenients :
     * Phase 1 : Co-conception avec 350 testeurs pour générer du feedback, des ambassadeurs et du contenu. Utilisation de la preuve sociale (précommandes).
     * Phase 2 (Lancement) : Marketing de contenu (blog, tutoriels), présence active sur les réseaux sociaux et communautés de designers (LinkedIn, Behance, Dribbble), SEO ciblé, potentiellement publicité en ligne. Relations presse spécialisée.
     * Phase 3 (Croissance) : Partenariats (écoles de design, associations professionnelles), marketing d'influence.
-* **Canaux de Distribution :** Principalement via le site web d'All-In. Potentiellement via des marketplaces d'outils pour designers.
+* **Canaux de Distribution :** Principalement via le site web d'Apolline. Potentiellement via des marketplaces d'outils pour designers.
 * **Prix et Marges :** Prix fixés à 0€, 15€, 25€. Le tableau financier initial indique une Marge Brute de 68%, ce qui est un bon indicateur pour un SaaS, bien que les coûts d'acquisition client devront être maîtrisés.
 
 ### Organisation
@@ -159,30 +159,30 @@ Allocation nécessaire pour :
 
 Cette section regroupe les documents et informations complémentaires venant appuyer les éléments présentés dans le corps du business plan.
 
-## Annexe 1 : Maquettes et Captures d'Écran de l'Interface All-In
+## Annexe 1 : Maquettes et Captures d'Écran de l'Interface Apolline
 
 ![](maquette.png)
 
 ## Annexe 2 : Parcours Utilisateur Type
 
-Voici un exemple de parcours utilisateur typique pour un designer utilisant All-In :
+Voici un exemple de parcours utilisateur typique pour un designer utilisant Apolline :
 
 1.  **Découverte (Lundi Matin) :**
     * Léa, designer freelance, navigue sur Instagram et repère un logo qui l'inspire pour un projet futur.
-    * Elle utilise l'extension navigateur All-In (ou la fonction "Partager vers" sur mobile) pour sauvegarder le post directement dans son espace All-In.
-    * All-In capture l'image, le lien source, et suggère automatiquement des tags pertinents ("logo", "minimaliste", "typographie"). Léa ajoute le tag "Projet_ClientX".
+    * Elle utilise l'extension navigateur Apolline (ou la fonction "Partager vers" sur mobile) pour sauvegarder le post directement dans son espace Apolline.
+    * Apolline capture l'image, le lien source, et suggère automatiquement des tags pertinents ("logo", "minimaliste", "typographie"). Léa ajoute le tag "Projet_ClientX".
 2.  **Veille Continue (Lundi Soir) :**
-    * Léa consulte Pinterest et trouve une palette de couleurs intéressante. Elle la sauvegarde dans All-In, la reliant au tag "Projet_ClientX".
-    * Elle lit un article de blog sur les tendances design 2025 et sauvegarde le lien dans All-In avec le tag "Tendances_2025".
+    * Léa consulte Pinterest et trouve une palette de couleurs intéressante. Elle la sauvegarde dans Apolline, la reliant au tag "Projet_ClientX".
+    * Elle lit un article de blog sur les tendances design 2025 et sauvegarde le lien dans Apolline avec le tag "Tendances_2025".
 3.  **Phase de Réflexion (Mardi Après-midi) :**
-    * Léa démarre activement le "Projet_ClientX". Elle ouvre All-In et filtre ses inspirations par ce tag.
+    * Léa démarre activement le "Projet_ClientX". Elle ouvre Apolline et filtre ses inspirations par ce tag.
     * Elle active la vue en graphe pour visualiser les éléments sauvegardés pour ce projet. Elle voit le logo Instagram, la palette Pinterest et d'autres éléments liés.
     * Le graphe met en évidence une connexion inattendue entre le logo et un autre élément sauvegardé précédemment sous un tag différent ("inspiration_forme").
 4.  **Utilisation & Création (Mardi Soir) :**
-    * Léa explore cette connexion et affine son concept créatif. Elle exporte facilement les visuels nécessaires depuis All-In pour les utiliser dans ses outils de design.
+    * Léa explore cette connexion et affine son concept créatif. Elle exporte facilement les visuels nécessaires depuis Apolline pour les utiliser dans ses outils de design.
     * Elle gagne du temps en ayant tout centralisé et bénéficie de la visualisation pour stimuler sa créativité.
 5.  **Collaboration (Optionnel - Offre Premium) :**
-    * Si Léa travaillait en équipe, elle pourrait partager son groupe d'inspiration "Projet_ClientX" avec ses collaborateurs directement dans All-In pour discussion et validation.
+    * Si Léa travaillait en équipe, elle pourrait partager son groupe d'inspiration "Projet_ClientX" avec ses collaborateurs directement dans Apolline pour discussion et validation.
 
 ## Annexe 3 : Résultats Détaillés de l'Étude de Marché Initiale
 
